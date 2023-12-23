@@ -1,4 +1,4 @@
-country,amt_of_reviews,avg_points
+country,count,points
 Argentina,3800,86.71026315789474
 Armenia,2,87.5
 Australia,2329,88.58050665521684
